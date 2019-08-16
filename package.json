@@ -9,6 +9,6 @@
     "commander": "^3.0.0"
   },
   "bin": {
-    "ginit": "./index.js"
+    "martin-test-cli": "./index.js"
   }
 }

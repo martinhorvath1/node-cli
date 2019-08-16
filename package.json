@@ -6,13 +6,11 @@
   "author": "Martin Horvath <martin.horvath@attrecto.com>",
   "license": "MIT",
   "dependencies": {
-    "commander": "^3.0.0",
-    "node-cli": "https://github.com/martinhorvath1/node-cli.git"
+    "commander": "^3.0.0"
   },
   "bin": {
     "test-cli": "./index.js"
   },
   "scripts": {
-
   }
 }

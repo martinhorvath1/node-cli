@@ -6,3 +6,9 @@ commander@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-3.0.0.tgz#0641ea00838c7a964627f04cddc336a2deddd60a"
   integrity sha512-pl3QrGOBa9RZaslQiqnnKX2J068wcQw7j9AIaBQ9/JEp5RY6je4jKTImg0Bd+rpoONSe7GUFSgkxLeo17m3Pow==
+
+"node-cli@https://github.com/martinhorvath1/node-cli.git":
+  version "0.0.0"
+  resolved "https://github.com/martinhorvath1/node-cli.git#3feeef33d7ab7426b1de2a4e73041c80d9111d51"
+  dependencies:
+    commander "^3.0.0"

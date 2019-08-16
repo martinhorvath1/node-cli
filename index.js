@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 const commander = require('commander');
+const packageJson = require('./package.json');
 const program = new commander.Command();
 
-program.version('0.0.1');
+program.version(packageJson.version);
 
 program
     .option('test', 'Just to make sure it is working')

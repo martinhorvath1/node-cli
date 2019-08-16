@@ -1,0 +1,11 @@
+{
+  "name": "node-cli",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:martinhorvath1/node-cli.git",
+  "author": "Martin Horvath <martin.horvath@attrecto.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.0"
+  }
+}
